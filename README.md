@@ -18,9 +18,9 @@ Ejercicio0/juan_garcia.java
 
 
 5. Sube los cambios a tu fork:
-Haz un 'add' para añadir el fichero.
-Haz un 'commit' para guardar los cambios con el siguiente nombre: "Solución de Juan García"
-Haz un 'push' para que los cambios locales se actualicen en el repositorio online.
+- Haz un 'add' para añadir el fichero.
+- Haz un 'commit' para guardar los cambios con el siguiente nombre: "Solución de Juan García"
+- Haz un 'push' para que los cambios locales se actualicen en el repositorio online.
 
 
 6. Entra en tu repositorio en GitHub en la web y observa si los cambios aparecen correctamente.
