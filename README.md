@@ -7,7 +7,7 @@ Instrucciones:
 - Esto creará una copia del repositorio en tu cuenta de GitHub.
 -- Mantén el nombre del repositorio, añade si lo deseas una descripción y deja activada la opción de 'copy de main branch only'.
 
-![image|100]<width="200" height="200" />(https://github.com/user-attachments/assets/0f01c605-eb71-448c-8c8d-c2d58fe97761)
+![image|100](https://github.com/user-attachments/assets/0f01c605-eb71-448c-8c8d-c2d58fe97761 = 200x50)
 
 Tras hacer el fork tendrás en tu cuenta de Github el repositorio clonado. A partir de ahora trabajarás en tu propia copia del repositorio (solo visible por ti) y cuando tengas el ejercicio terminado la enviarás al repositorio principal.
 
