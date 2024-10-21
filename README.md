@@ -17,7 +17,7 @@ Tras hacer el fork tendrás en tu cuenta de Github el repositorio clonado. A par
 2. Clona tu FORK (tu copia) en tu máquina local:
 - Asocia tu copia del repositorio a un directorio de tu escritorio. Para ello, desde tu repositorio en la web de Github, dale a Code/Open with Github Desktop.
 
-![image|300](https://github.com/user-attachments/assets/e3c73bc5-3bb1-4656-a733-46045e040fd2)
+![image](https://github.com/user-attachments/assets/c6bd2513-5e22-49a8-9d8a-77a92df73b6a)
 
 
 
