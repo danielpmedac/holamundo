@@ -24,7 +24,7 @@ Tras hacer el fork tendrás en tu cuenta de Github el repositorio clonado. A par
 
 3. Ya en Github desktop, vincula este repositorio a una carpeta de tu ordenador.
 
-![image|300](https://github.com/user-attachments/assets/ffef6bf6-064b-4357-abf2-fc93422355a4)
+![image](https://github.com/user-attachments/assets/787601e7-8e43-4692-bb41-ea1fb8525944)
 
 Como tenemos la intención de enviar tus cambios al repositorio original, selecciona la opción de contribuir al repositorio padre.
 
