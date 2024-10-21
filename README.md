@@ -28,7 +28,7 @@ Tras hacer el fork tendrás en tu cuenta de Github el repositorio clonado. A par
 
 Como tenemos la intención de enviar tus cambios al repositorio original, selecciona la opción de contribuir al repositorio padre.
 
-![image|300](https://github.com/user-attachments/assets/eaae2d4b-ce17-4da8-ab26-5defa30682df)
+![image](https://github.com/user-attachments/assets/4f899de9-432e-4fe5-948b-b71ec41cbc9e)
 
 A partir de ahora, podrás abrir la carpeta ya con cuaquier IDE y ahí añadir los ejercicios o proyectos que se te pidan. Para este ejemplo, añade a la carpeta 'ejemplo1' un hola mundo con el nombre tunombre.java. Ejemplo: Ejercicio0/juan_garcia.java
 
